@@ -48,11 +48,12 @@ As a **Dean’s Merit Award recipient (2023)** and **University Mathematics Tuto
 - Time management  
 
 ### 🔬 Academic & Professional Interests
-- Machine learning for real-world impact  
-- Efficient algorithm design  
-- Data-driven systems  
-- Computational solutions for societal challenges  
-
+- Cloud computing architectures and distributed systems  
+- Cybersecurity and secure software design  
+- Machine learning for data-driven problem solving  
+- Efficient algorithm design and optimisation  
+- Scalable computational solutions for real-world and societal challenges  
+ 
 ---
 
 ## D. Projects & Competitions
@@ -114,9 +115,10 @@ A robust academic project demonstrating readiness for **honours-level research a
 ## 🚀 Research Vision
 My goal is to pursue **Honours and postgraduate research in Computer Science**, focusing on:
 
-- Intelligent systems for social impact  
-- Scalable and efficient algorithms  
-- Data-driven innovation in South Africa  
+- **Cybersecurity:** Developing secure systems and protecting data in complex software environments  
+- **Advanced Software Engineering:** Designing scalable, maintainable, and efficient software architectures  
+- **Artificial Intelligence & Machine Learning:** Creating intelligent systems capable of data-driven decision making and automation  
+- **Applied Computational Solutions:** Integrating AI and cybersecurity principles to address real-world challenges in South Africa and beyond 
 
 ---
 
