@@ -37,7 +37,7 @@ As a **Dean’s Merit Award recipient (2023)** and **University Mathematics Tuto
 - SQL & Database Design
 - Software Engineering Principles
 - Git & GitHub
-- Machine Learning (Foundations)
+- Machine Learning
 
 ### 🤝 Soft Skills
 - Academic tutoring & mentorship  
